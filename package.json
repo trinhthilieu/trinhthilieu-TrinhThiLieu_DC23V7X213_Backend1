@@ -1,0 +1,23 @@
+{
+  "name": "trinhthilieu_dc23v7x213_backend1",
+  "version": "1.0.0",
+  "description": "ct449",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinhthilieu/trinhthilieu-TrinhThiLieu_DC23V7X213_Backend1.git"
+  },
+  "author": "TrinhThilieu_DC23V7X213",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinhthilieu/trinhthilieu-TrinhThiLieu_DC23V7X213_Backend1/issues"
+  },
+  "homepage": "https://github.com/trinhthilieu/trinhthilieu-TrinhThiLieu_DC23V7X213_Backend1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
